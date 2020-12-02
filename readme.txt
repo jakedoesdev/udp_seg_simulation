@@ -1,6 +1,4 @@
-Author: Jacob Everett (jae0204)
-Class:  CSCE3530.002
-Instructor: Dr. Robin Pottathuparambil
+Author: Jacob Everett
 
 Make file instructions
 
